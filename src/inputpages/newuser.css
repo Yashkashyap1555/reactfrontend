@@ -1,0 +1,16 @@
+.label{
+    background-color: skyblue;
+    border-bottom: 2px solid black;
+    
+}
+.form-box{
+    background-color: rgb(247, 222, 222)
+}
+
+form{
+    border: 2px solid black;
+    width: 50%;
+}
+input{
+    border-radius: 20px;
+}

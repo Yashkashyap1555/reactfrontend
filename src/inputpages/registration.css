@@ -1,0 +1,32 @@
+*{
+    /* height: 100%; */
+    /* width: 100%; */
+   
+}
+.lable{
+    display: flex;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+tr:hover {background-color: coral;}  
+
+.profile-box{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.box{
+    /* border: 2px solid black; */
+    margin: auto;
+    width: 40%;
+    /* background-color: red; */
+    border-radius: 5px;
+    margin-bottom: 20px !important;
+    box-shadow: 1px 6px 11px grey;
+    padding: 20px;
+    transition: transform 0.3s ease;
+   
+}
+.box:hover{
+    transform: scale(1.05);
+}
